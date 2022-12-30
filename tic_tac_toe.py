@@ -27,43 +27,7 @@ pos7="7"
 pos8="8"
 pos9="9"
 
-# def pos():
-#         if X=="1":
-#          pos1="x"
-#         if X=="2":
-#          pos2="x"
-#         if X=="3":       
-#          pos3="x"
-#         if X=="4":
-#          pos4="x"
-#         if X=="5":
-#          pos5="x"
-#         if X=="6":
-#          pos6="x"       
-#         if X=="7":
-#          pos7="x"
-#         if X=="8":
-#          pos8="x"
-#         if X=="9":
-#          pos9="x"
-#         if O=="1":
-#          pos1="o"
-#         if O=="2":
-#          pos2="o"
-#         if O=="3":       
-#          pos3="o"
-#         if O=="4":
-#          pos4="o"
-#         if O=="5":
-#          pos5="o"
-#         if O=="6":
-#          pos6="o"       
-#         if O=="7":
-#          pos7="o"
-#         if O=="8":
-#          pos8="o"
-#         if O=="9":
-#          pos9="o" 
+
   
 
 # def struc(pos1,pos2,pos3,pos4,pos5,pos6,pos7,pos8,pos9):
