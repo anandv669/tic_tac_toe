@@ -15,10 +15,7 @@ elif user1symbol == "o":
         "\n\n\n\n         The game has been started\n\nyour opponent is x\n\nchoose the number where you want to place your 'x' or 'o'\n\nFirst goes 'x'\n\n"
     )
 
-# print("1 | 2 | 3\n=========\n4 | 5 | 6\n=========\n7 | 8 | 9")
 
-# O="oplace"
-# X="xplace"
 x = "user1"
 o = "user2"
 pos1 = "1"
@@ -93,8 +90,7 @@ x1 = input("->")
 while x1 not in ["1", "2", "3", "4", "5", "6", "7", "8", "9"]:
     x1 = input("invalid option ->")
 
-# if x1 == ["1","2","3","4","5","6","7","8","9"]:
-#    [pos1,pos2,pos3,pos4,pos5,pos6,pos7,pos8,pos9]="x"
+
 if x1 == "1":
     pos1 = "x"
 elif x1 == "2":
