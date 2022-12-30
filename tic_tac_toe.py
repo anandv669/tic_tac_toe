@@ -86,24 +86,7 @@ def tictactoe():
         print("o is winner")
        
 
-# def cross():
-#     global X
-#     global O
-#     global x
-#     global o
-    
-#     while not x=="wins" or not o=="wins": 
-#         X=input(">")
-#         while X not in ["1","2","3","4","5","6","7","8","9"]:
-#             X=input("invalid position\n>")
-#         pos()
-#         strc()
-#         O=input(">") 
-#         while O not in ["1","2","3","4","5","6","7","8","9"] and (O!=X):
-#             O=input("invalid position\n>")  
-#         pos()
-#         struc()
-#         tictactoe()
+
 
 print(f"{pos1} | {pos2} | {pos3}\n=========\n{pos4} | {pos5} | {pos6}\n=========\n{pos7} | {pos8} | {pos9}")
 
