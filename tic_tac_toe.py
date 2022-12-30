@@ -29,7 +29,6 @@ pos9="9"
 
 
   
-
 # def struc(pos1,pos2,pos3,pos4,pos5,pos6,pos7,pos8,pos9):
 #           print(f"{pos1} | {pos2} | {pos3}\n=========\n{pos4} | {pos5} {pos6}\n=========\n{pos7} | {pos8} | {pos9}")
 
@@ -43,6 +42,7 @@ pos9="9"
 #        pos3="x"
 #      elif X=="4":
 #        pos4="x"
+
 #      elif X=="5":
 #        pos5="x"
 #      elif X=="6":
@@ -98,43 +98,7 @@ pos9="9"
   
 
 
-# def tictactoe():
-#      #x is winner
-#      if 1=="x" and 2=="x" and 3=="x" :   
-#         x="wins"
-#      elif 4=="x" and 5=="x" and 6=="x" :   
-#         x="wins"
-#      elif 7=="x" and 8=="x" and 9=="x" :   
-#         x="wins"
-#      elif 1=="x" and 5=="x" and 9=="x" :   
-#         x="wins"
-#      elif 3=="x" and 5=="x" and 7=="x" :   
-#         x="wins"  
-#      elif 1=="x" and 4=="x" and 7=="x" :   
-#         x="wins"
-#      elif 2=="x" and 5=="x" and 8=="x" :   
-#         x="wins"
-#      elif 3=="x" and 6=="x" and 9=="x" :   
-#         x="wins"
-#        #o is winner
-#      elif 1=="o" and 2=="o" and 3=="o" :   
-#         o="wins"
-#      elif 4=="o" and 5=="o" and 6=="o" :   
-#         o="wins"
-#      elif 7=="o" and 8=="o" and 9=="o" :   
-#         o="wins"
-#      elif 1=="o" and 5=="o" and 9=="o" :   
-#         o="wins"
-#      elif 3=="o" and 5=="o" and 7=="o" :   
-#         o="wins"  
-#      elif 1=="o" and 4=="o" and 7=="o" :   
-#         o="wins"
-#      elif 2=="o" and 5=="o" and 8=="o" :   
-#         o="wins"
-#      elif 3=="o" and 6=="o" and 9=="o" :   
-#         o="wins"  
-#      else:
-#           game="draw"
+
 def tictactoe():
      #x is winner
      if pos1=="x" and pos2=="x" and pos3=="x" :   
